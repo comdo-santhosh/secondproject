@@ -6,6 +6,6 @@ class helloworld{
     public static void main(String[] args) {
         System.out.println("santhosh");
         System.out.println("My brother name is surenthar s");
-        int c = 50;
+        int c = 364;
     }
 }
